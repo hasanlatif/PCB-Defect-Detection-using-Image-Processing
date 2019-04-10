@@ -5,7 +5,7 @@
 * This  system is not ment to use for Industrial Puprose.
 
 
-![](https://https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/Result.png)
+![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/Result.png)
 
 
 
