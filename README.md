@@ -2,7 +2,6 @@
 * System uses canny edge edge detection algorithm of both test and ground-truth edges.After getting the edges, Just use the bitwise xor operation to get the defects in pcb.
 
 # Results
-
 ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/Result.png)
 
 
