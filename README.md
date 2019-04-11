@@ -14,6 +14,7 @@
 * This  system is not ment to use for Industrial Puprose.
 # Note:
   * Waiting for your suggestions.If you find any lag in documentation in any ways,shoot me an email at hasanlateef@outlook.com
+  * This code requires scikit-image,numpy and matplotlib in order to give the output
 
 
 
