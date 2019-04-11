@@ -6,8 +6,8 @@
  install it.
  'pip3 install matplotlib' to install opencv
  and use
- pip3 insatall dlib to install numpy
-Run this script go the project directory using command prompt and write  ""python  simple_emoji_snap_like_filter_v1.py"
+ pip3 install numpy to install numpy
+Run this script go the project directory using command prompt and write  ""python pcb_defect_detection.py  "
 '''
 
 from skimage import io, feature, color
