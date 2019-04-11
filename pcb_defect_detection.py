@@ -4,7 +4,7 @@
  This code will work if you have python 3 ,numpy, scikit-image and matplotlib installed to your system.
  if not just download the setup of python 3 from python.org.
  install it.
- 'pip3 install matplotlib' to install opencv
+ 'pip3 install matplotlib' to install matplotlib
  and use
  pip3 install numpy to install numpy
 Run this script go the project directory using command prompt and write  ""python pcb_defect_detection.py  "
