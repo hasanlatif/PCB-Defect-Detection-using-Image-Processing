@@ -1,6 +1,6 @@
 # PCB Defect Detection Using Image Processing
 * System uses canny edge detection algorithm to get edges on test and ground-truth imaeg .After getting the edges, Just use the bitwise xor operation to get the defects in pcb.
-
+* Canny Edge Detector firstly applies gaussian filter to remove any unwanted noise.Then it finds the intensity gradients to get edges.
 * XOR Truth Table
 
 ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/xor.png)
