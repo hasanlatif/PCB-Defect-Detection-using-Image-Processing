@@ -3,7 +3,7 @@
 * Canny Edge Detector firstly applies gaussian filter to remove any unwanted noise.Then it finds the intensity gradients to get edges.
 * XOR Truth Table
 
-      ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/xor.png)
+![] (https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/xor.png)
 
 # Results
 ![](https://github.com/hasanlatif/Snapchat-like-Filters-python/blob/master/Readme_pics/Result.png)
