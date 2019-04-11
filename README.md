@@ -16,7 +16,8 @@
   * Waiting for your suggestions.If you find any lag in documentation in any ways,shoot me an email at hasanlateef@outlook.com
   * This code requires scikit-image,numpy and matplotlib in order to give the output
   * Implementation of Machine Learning Algorithms from scratch is in pipline.
-  
+  * This research is based in part upon work supported by the Office  EZ Technologies. The views and conclusions contained herein are    
+     those of the authors and should not be interpreted as necessarily representing the official policies or endorsements.
 
 
 
